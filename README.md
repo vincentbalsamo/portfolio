@@ -1,0 +1,1 @@
+Hands-on Excel practice with MPT and an Investment Opportunity set done for practice (and for fun!). Used data and examples from the great textbook: "Investments" by Zvi Bodie, Alex Kane, and Alan Marcus.
